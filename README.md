@@ -24,12 +24,8 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangHa05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangHa05&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenHoangHa05&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangHa05&layout=compact&theme=tokyonight)
 ---
 
 ### 🌟 Featured Projects
