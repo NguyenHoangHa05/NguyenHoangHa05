@@ -1,20 +1,34 @@
+<div align="center">
+
 # 👋 Hi, I'm Nguyễn Hoàng Hà!
 ### 🚀 Fresher / Intern Full-Stack Developer (Node.js & ReactJS)
 
-📍 **Location:** Thủ Đức, TP. Hồ Chí Minh  
-🎓 **Education:** Đại học Giao Thông Vận Tải (UTH) - Ngành CNTT  
-✉️ **Email:** nguyenhoangha050204@gmail.com  
-📞 **Phone:** 0795400502  
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NguyenHoangHa05&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), HTML5/CSS3, SQL
-- **Frontend:** ReactJS, Component-based Architecture, Responsive Design, Axios/Fetch API
-- **Backend:** Node.js, Express.js, RESTful API Design, JWT Authentication, Socket.IO, Middleware
-- **Database:** MySQL, PostgreSQL (Database Schema & Relationships)
-- **Tools & Cloud:** Git/GitHub, Postman, Swagger UI, Cloudinary API, Visual Studio Code
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangHa05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangHa05&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
@@ -30,5 +44,8 @@
 
 ---
 
-### 🎯 Career Goals
-Looking for an **Intern / Fresher Developer** position (Full-time) to apply my skills, learn from experienced seniors, and contribute to company projects.
+### 📬 Contact Info
+- 🎓 **Education:** Đại học Giao Thông Vận Tải (UTH) - Ngành CNTT (Loại Khá)
+- 📍 **Location:** Thủ Đức, TP. Hồ Chí Minh
+- ✉️ **Email:** nguyenhoangha050204@gmail.com
+- 📞 **Phone:** 0795400502
