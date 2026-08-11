@@ -1,11 +1,9 @@
-<div align="center">
-
 # 👋 Hi, I'm Nguyễn Hoàng Hà!
 ### 🚀 Fresher / Intern Full-Stack Developer (Node.js & ReactJS)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NguyenHoangHa05&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-blue?style=for-the-badge&logo=javascript)
+![Location](https://img.shields.io/badge/Location-Thu_Duc,_Ho_Chi_Minh-green?style=for-the-badge&logo=googlemaps)
+![Degree](https://img.shields.io/badge/Degree-IT_Major_(Good)-orange?style=for-the-badge&logo=graduation-cap)
 
 ---
 
@@ -21,11 +19,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
-
-### 📊 GitHub Activity & Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenHoangHa05&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangHa05&layout=compact&theme=tokyonight)
 ---
 
 ### 🌟 Featured Projects
