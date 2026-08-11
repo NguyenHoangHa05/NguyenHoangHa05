@@ -2,8 +2,17 @@
 ### 🚀 Fresher / Intern Full-Stack Developer (Node.js & ReactJS)
 
 ![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-blue?style=for-the-badge&logo=javascript)
-![Location](https://img.shields.io/badge/Location-Thu_Duc,_Ho_Chi_Minh-green?style=for-the-badge&logo=googlemaps)
 ![Degree](https://img.shields.io/badge/Degree-IT_Major_(Good)-orange?style=for-the-badge&logo=graduation-cap)
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Education:** Senior Student at **University of Transport Ho Chi Minh City (UTH)**, majoring in Information Technology (Good Degree Grade).
+- 💡 **Core Focus:** Web Application Development specializing in **Node.js, Express, ReactJS**, and Relational Databases (**MySQL & PostgreSQL**).
+- 🚀 **Hands-on Experience:** Built real-world projects handling **Booking Engine**, **JWT Authentication**, **Socket.IO Real-time**, and **Cloudinary Storage**.
+- 🎯 **Career Objective:** Seeking a **Fresher / Intern Developer (Full-time)** role to apply my skills, learn professional engineering workflows, and contribute to company projects.
+- 🌱 **Mindset:** Honest, proactive learner, passionate about software engineering and continuous personal growth.
 
 ---
 
