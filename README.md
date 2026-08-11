@@ -2,7 +2,7 @@
 ### 🚀 Fresher / Intern Full-Stack Developer (Node.js & ReactJS)
 
 📍 **Location:** Thủ Đức, TP. Hồ Chí Minh  
-🎓 **Education:** Đại học Giao Thông Vận Tải (UTC) - Ngành CNTT  
+🎓 **Education:** Đại học Giao Thông Vận Tải (UTH) - Ngành CNTT  
 ✉️ **Email:** nguyenhoangha050204@gmail.com  
 📞 **Phone:** 0795400502  
 
